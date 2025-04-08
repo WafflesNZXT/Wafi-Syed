@@ -135,7 +135,6 @@ html {
   }
   .uparrow {
     margin-left: 2450px;
-    transition: 0.5s;
     border-radius: 10%;
     padding: 10px 10px 10px 10px;
     background: none;
@@ -147,6 +146,7 @@ html {
     color: #CCA43B;
     border: solid 3px gray;
     padding: 10px 10px 10px 10px;
+    transition: 0.2s all;
   }
   
   .row {
