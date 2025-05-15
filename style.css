@@ -47,6 +47,26 @@ html {
     scroll-behavior: smooth;
   }
   
+  .navbar {
+    background-color: #E5E5E5;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    border: 2px solid #CCA43B;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+  .navbarlink {
+    background-color: #363636;
+    text-decoration: none;
+    margin-bottom: -20px;
+    color: #E5E5E5;
+    width: 50px;
+    height: 20px;
+    border-radius: 5px;
+  }
+
   .TitleBox {
     width: 350px;
     height: 100px;
@@ -367,4 +387,8 @@ html {
   margin-bottom: -35px;
   width:150px;
   height:80px;
+}
+
+.abody {
+  background-color: #363636;
 }
