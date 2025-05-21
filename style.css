@@ -295,7 +295,8 @@ html {
   }
   
   .school {
-    color: white;
+    color: #CCA43B;
+    text-decoration: none;
   }
   
   .school:hover {
